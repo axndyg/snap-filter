@@ -35,3 +35,7 @@ using Snapchat's official application, Lens Studio
   > the left hand model. However, modelling it over to the rigt hand proved more cumbersone and is still being progressed.
   >
   > ![plot](./README_pics/ref4.JPG) ![plot](./README_pics/ref6.JPG)
+  > 
+  > And finally, success with weight painting! 
+  > 
+  > ![plot](./README_pics/ref7.JPG)
