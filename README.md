@@ -10,7 +10,7 @@ using Snapchat's official application, Lens Studio
   ## Project Clarifications and Fair Use
   > The base material for hand-tracking technology was iterated 
   > through the use of a Lens Studio provided template.
-  > All textures used are based on the open source 
+  > **All textures used are based on the open source or approved for use by author**
 
   ## Progression Snapshots 
   > Deciding on a project idea, I had to familiarize myself with Lens Studio,
